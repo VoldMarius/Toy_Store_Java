@@ -23,4 +23,16 @@ public class Toy {
         }
     }
 
+    public String get() {
+        Random rand = new Random();
+        int rnd = rand.nextInt(100) + 1;
+        if (rnd <= 20) {
+            return this.toyIds[0];
+        } else if (rnd <= 40) {
+            return this.toyIds[1];
+        } else {
+            int randomIndex = rand.nextInt(queue.size());
+            return queue.toArray(new String[queue.size()])[randomIndex];
+        }
+    }
 

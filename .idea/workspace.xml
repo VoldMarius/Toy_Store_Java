@@ -4,15 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6495530e-7410-4e8b-ac67-8db54d32b4e0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Readme" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Toy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/toy_shop.iml" afterDir="false" />
+    <list default="true" id="6495530e-7410-4e8b-ac67-8db54d32b4e0" name="Changes" comment="Создаем конструктор описывающий класс Toy">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Toy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Toy.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +23,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2QwyU0obIILgqi2NeTM2ix5Jhv4" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -65,6 +63,29 @@
       <option name="presentableId" value="Default" />
       <updated>1686278964923</updated>
     </task>
+    <task id="LOCAL-00001" summary="Создаем конструктор описывающий класс Toy">
+      <created>1686303609246</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1686303609246</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Создаем конструктор описывающий класс Toy" />
+    <option name="LAST_COMMIT_MESSAGE" value="Создаем конструктор описывающий класс Toy" />
   </component>
 </project>
