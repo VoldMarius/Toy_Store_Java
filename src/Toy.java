@@ -36,3 +36,19 @@ public class Toy {
         }
     }
 
+    public static void main(String[] args) throws IOException {
+        Toy toy = new Toy("1 2 3", "конструктор робот кукла", "2 2 6");
+        String fileName = "output.txt";
+        FileWriter writer = new FileWriter(fileName);
+        int i = 0;
+        while (i < 10) {
+            try {
+                writer.write(toy.get() + " ");
+            } catch (IOException e) {
+                System.out.println("Ошибка записи в файл " + fileName + ": " + e.getMessage());
+            }
+            i++;
+        }
+        writer.close();
+    }
+}
