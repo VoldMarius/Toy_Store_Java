@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6495530e-7410-4e8b-ac67-8db54d32b4e0" name="Changes" comment="Создаем метод возвращающий случайную игрушку">
-      <change beforePath="$PROJECT_DIR$/src/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Toy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Toy.java" afterDir="false" />
+    <list default="true" id="6495530e-7410-4e8b-ac67-8db54d32b4e0" name="Changes" comment="Вызов метода get() десять раз внутри метода main()">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/output.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +76,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686304257187</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Вызов метода get() десять раз внутри метода main()">
+      <created>1686304695217</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1686304695217</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -93,6 +100,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Создаем конструктор описывающий класс Toy" />
     <MESSAGE value="Создаем метод возвращающий случайную игрушку" />
-    <option name="LAST_COMMIT_MESSAGE" value="Создаем метод возвращающий случайную игрушку" />
+    <MESSAGE value="Вызов метода get() десять раз внутри метода main()" />
+    <option name="LAST_COMMIT_MESSAGE" value="Вызов метода get() десять раз внутри метода main()" />
   </component>
 </project>
