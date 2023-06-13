@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6495530e-7410-4e8b-ac67-8db54d32b4e0" name="Changes" comment="Вызов метода get() десять раз внутри метода main()">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/output.txt" afterDir="false" />
-    </list>
+    <list default="true" id="6495530e-7410-4e8b-ac67-8db54d32b4e0" name="Changes" comment="Добавил описания к дейсвиям кода" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,13 +29,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "onboarding.tips.debug.path": "C:/Users/Maxim/IdeaProjects/toy_shop/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Maxim/IdeaProjects/toy_shop/src/Main.java&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Toy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Toy" />
@@ -83,7 +80,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686304695217</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Добавил описания к дейсвиям кода">
+      <created>1686464372459</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1686464372459</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -101,6 +105,7 @@
     <MESSAGE value="Создаем конструктор описывающий класс Toy" />
     <MESSAGE value="Создаем метод возвращающий случайную игрушку" />
     <MESSAGE value="Вызов метода get() десять раз внутри метода main()" />
-    <option name="LAST_COMMIT_MESSAGE" value="Вызов метода get() десять раз внутри метода main()" />
+    <MESSAGE value="Добавил описания к дейсвиям кода" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавил описания к дейсвиям кода" />
   </component>
 </project>
